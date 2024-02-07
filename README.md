@@ -17,3 +17,7 @@ We have provided three example test cases at the bottom of the file. The first c
 Using the debugging process you learned in this lesson, outlined above, find and fix all the bugs in this code.
 
 The code will throw errors at you right off the bat, but remember, this is a good thing! We believe you have all the skills now to debug this code. Don’t give up and show us what you’ve learned! We know you can do it.
+
+
+links 
+https://www.codecademy.com/resources/docs/javascript/statements
